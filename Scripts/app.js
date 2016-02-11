@@ -25,7 +25,7 @@
 
         firstParagraph = document.getElementById("firstParagraph");
 
-        firstParagraph.innerHTML = "My New Paragraph Data. My New Paragraph Data. My New Paragraph Data. My New Paragraph Data. My New Paragraph Data. My New Paragraph Data. My New Paragraph Data. My New Paragraph Data. My New Paragraph Data. My New Paragraph Data. My New Paragraph Data. My New Paragraph Data. My New Paragraph Data. My New Paragraph Data. My New Paragraph Data. My New Paragraph Data. My New Paragraph Data. My New Paragraph Data. My New Paragraph Data. My New Paragraph Data. ";
+        firstParagraph.innerHTML = "Hello my name is Brittany and I am currently in the Interactive Web Design & Development program at Georgian College ";
     };
     
    
