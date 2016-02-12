@@ -1,0 +1,14 @@
+
+img#logo { 
+    margin: 10px;
+    border: 1px solid black;
+    margin-left: 550px;
+    border-radius: 10px;
+}
+
+img#portrait {
+      margin-left: 430px;
+      border: 1px  solid white;
+      border-radius: 10px;
+}
+
