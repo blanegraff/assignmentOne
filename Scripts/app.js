@@ -24,3 +24,4 @@ document.getElementById("firstParagraph").style.color = "black";
     replaceFirstParagraph();
     
 })();
+
